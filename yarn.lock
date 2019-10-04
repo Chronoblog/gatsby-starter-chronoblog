@@ -29,7 +29,7 @@
     semver "^5.4.1"
     source-map "^0.5.0"
 
-"@babel/core@^7.6.0", "@babel/core@^7.6.2":
+"@babel/core@^7.6.2":
   version "7.6.2"
   resolved "https://registry.yarnpkg.com/@babel/core/-/core-7.6.2.tgz#069a776e8d5e9eefff76236bc8845566bd31dd91"
   integrity sha512-l8zto/fuoZIbncm+01p8zPSDZu/VuuJhAfA7d/AbzM09WR7iVhavvfNDYCNpo1VvLk6E6xgAoP9P+/EMJHuRkQ==
@@ -1197,7 +1197,7 @@
   dependencies:
     core-js "^2.5.7"
 
-"@mdx-js/mdx@^1.4.5":
+"@mdx-js/mdx@^1.5.0":
   version "1.5.0"
   resolved "https://registry.yarnpkg.com/@mdx-js/mdx/-/mdx-1.5.0.tgz#0f9aa44c888ad197f7346f8c8c81d0bc2d1b17a6"
   integrity sha512-Xkg3AjxgCGwxXRBSVssekhsKdEg3N7mGrvGyxYgVapSTqaO4c/3El+iLWhNzFJ99ujosnCTMVw+cDq3oLYJx1w==
@@ -1221,7 +1221,7 @@
     unist-builder "1.0.4"
     unist-util-visit "2.0.0"
 
-"@mdx-js/react@^1.4.5":
+"@mdx-js/react@^1.5.0":
   version "1.5.0"
   resolved "https://registry.yarnpkg.com/@mdx-js/react/-/react-1.5.0.tgz#bb060963c459e4e1553130448006ab756c6fdc4c"
   integrity sha512-SsXcxwvGYA00HQcZHuE+8vl53paa4tgMo748ZE2cQvir7E7/tRsayU8VRE4fSIWuSaDgOnw8jO+D5zBHP1P2Rg==
@@ -5564,7 +5564,7 @@ gatsby-page-utils@^0.0.24:
     micromatch "^3.1.10"
     slash "^3.0.0"
 
-gatsby-plugin-emotion@^4.1.6:
+gatsby-plugin-emotion@^4.1.9:
   version "4.1.9"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-emotion/-/gatsby-plugin-emotion-4.1.9.tgz#751b01b7200cfb0ff0f13d8bd61105d60a14ffd4"
   integrity sha512-qwsuuf94xjDwVtpMBp9AmRZw7zgcnbe4+f4rH/7U8hRCKcHIDn35Edcoi5dbBkSD487Ko/2emvN59+ZGseikmw==
@@ -5572,7 +5572,7 @@ gatsby-plugin-emotion@^4.1.6:
     "@babel/runtime" "^7.6.2"
     "@emotion/babel-preset-css-prop" "^10.0.17"
 
-gatsby-plugin-mdx@^1.0.42:
+gatsby-plugin-mdx@^1.0.46:
   version "1.0.47"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-mdx/-/gatsby-plugin-mdx-1.0.47.tgz#dd58b0fd04b63eb68bd3a42a6833bccc1537e324"
   integrity sha512-NCx9WIxyf3v+FztO9wV82k/GPoL9NEv09I5STWARo7BEPA9YImnO7a2Esj4DCSDkqqLXCu+G3LThgAQX8DrBqw==
@@ -5756,24 +5756,24 @@ gatsby-telemetry@^1.1.29:
     stack-utils "1.0.2"
     uuid "3.3.3"
 
-gatsby-theme-chronoblog@^0.0.6:
-  version "0.0.6"
-  resolved "https://registry.yarnpkg.com/gatsby-theme-chronoblog/-/gatsby-theme-chronoblog-0.0.6.tgz#a9376166890594bcc4019cc451cfb5dad6f21898"
-  integrity sha512-f6hkjMCfmV3ZXZnVz4PIYwCILK2bHyVKrUblD5ChBrSBOsfDCsoIupQtI1Jy9TdrEQOjQY7n89EeZiPhTDrwkA==
+gatsby-theme-chronoblog@^0.0.8:
+  version "0.0.8"
+  resolved "https://registry.yarnpkg.com/gatsby-theme-chronoblog/-/gatsby-theme-chronoblog-0.0.8.tgz#364eb58ae0145828d7651ea79a4ee1c4a03dfdca"
+  integrity sha512-u6SGOdNjoEjfeSuD80fZLjK51zGiLyGJZB5GnAmTRmhx169XLBqIXXFOQeV+B4TTQ8Few4uDPZdpH1DkgOM9/g==
   dependencies:
-    "@babel/core" "^7.6.0"
+    "@babel/core" "^7.6.2"
     "@emotion/core" "^10.0.17"
-    "@mdx-js/mdx" "^1.4.5"
-    "@mdx-js/react" "^1.4.5"
+    "@mdx-js/mdx" "^1.5.0"
+    "@mdx-js/react" "^1.5.0"
     "@reach/router" "^1.2.1"
     "@theme-ui/preset-base" "^0.2.40"
     "@types/lodash" "^4.14.138"
     debug "^4.1.1"
-    gatsby "^2.15.17"
+    gatsby "^2.15.28"
     gatsby-background-image "^0.8.11"
     gatsby-image "^2.2.19"
-    gatsby-plugin-emotion "^4.1.6"
-    gatsby-plugin-mdx "^1.0.42"
+    gatsby-plugin-emotion "^4.1.9"
+    gatsby-plugin-mdx "^1.0.46"
     gatsby-plugin-meta-redirect "^1.1.1"
     gatsby-plugin-page-creator "^2.1.17"
     gatsby-plugin-react-helmet "^3.1.7"
@@ -5807,7 +5807,7 @@ gatsby-transformer-sharp@^2.2.14:
     semver "^5.7.1"
     sharp "^0.23.1"
 
-gatsby@^2.15.17, gatsby@^2.15.28:
+gatsby@^2.15.28:
   version "2.15.29"
   resolved "https://registry.yarnpkg.com/gatsby/-/gatsby-2.15.29.tgz#ed3a809dcde91018ba0921cd58ebfed30144d3a2"
   integrity sha512-DFRjGgnfEIEZHKEpyM0GMxHaMGOMMcRrVIah7YWAKxpzQz6msXj95EjLv7MSEvWqTTr5Xxmmt3KcG+bJJ3Wp4g==
