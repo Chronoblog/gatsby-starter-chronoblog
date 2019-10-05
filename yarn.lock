@@ -5756,10 +5756,10 @@ gatsby-telemetry@^1.1.29:
     stack-utils "1.0.2"
     uuid "3.3.3"
 
-gatsby-theme-chronoblog@^0.0.8:
-  version "0.0.8"
-  resolved "https://registry.yarnpkg.com/gatsby-theme-chronoblog/-/gatsby-theme-chronoblog-0.0.8.tgz#364eb58ae0145828d7651ea79a4ee1c4a03dfdca"
-  integrity sha512-u6SGOdNjoEjfeSuD80fZLjK51zGiLyGJZB5GnAmTRmhx169XLBqIXXFOQeV+B4TTQ8Few4uDPZdpH1DkgOM9/g==
+gatsby-theme-chronoblog@^0.0.9:
+  version "0.0.9"
+  resolved "https://registry.yarnpkg.com/gatsby-theme-chronoblog/-/gatsby-theme-chronoblog-0.0.9.tgz#1c17a199eab80bd9c7c76f7f076ee1cfe619ac59"
+  integrity sha512-Q6OChfBrA3Hre8Qu2fvJDhRODyNUnF3CyT5wYX+fireFdHmgYeH9JqtoYBqxeOWulaNGqDzrVcY1mI/Ko9AKtw==
   dependencies:
     "@babel/core" "^7.6.2"
     "@emotion/core" "^10.0.17"
