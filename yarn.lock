@@ -1298,6 +1298,13 @@
   resolved "https://registry.yarnpkg.com/@theme-ui/preset-base/-/preset-base-0.2.44.tgz#ae8e938288a534f129111a56b1971e1cc12ddc9d"
   integrity sha512-g2BaHKz5/32wHIFoRifHxYikBJICqYx+weypA/zwz+d7rZTE9q+EgTvlFSdVlf1HtR2a3uLB1lp4se0tlI2zwg==
 
+"@theme-ui/prism@^0.2.40":
+  version "0.2.40"
+  resolved "https://registry.yarnpkg.com/@theme-ui/prism/-/prism-0.2.40.tgz#e2f4d69981ce33e916199a7a8763ac455878e4fe"
+  integrity sha512-F8gNr0r7qg5pP+QMURzCVnx7LSGgPOEwpXl0QHhV4hOM4klC6P2JnivmEeWNjSC5uFCzeomEgLl1eaFeUheiAw==
+  dependencies:
+    prism-react-renderer "^0.1.7"
+
 "@types/configstore@^2.1.1":
   version "2.1.1"
   resolved "https://registry.yarnpkg.com/@types/configstore/-/configstore-2.1.1.tgz#cd1e8553633ad3185c3f2f239ecff5d2643e92b6"
@@ -4352,9 +4359,9 @@ ee-first@1.1.1:
   integrity sha1-WQxhFWsK4vTwJVcyoViyZrxWsh0=
 
 electron-to-chromium@^1.3.284, electron-to-chromium@^1.3.47:
-  version "1.3.285"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.3.285.tgz#909576db2ee4dfec74a87aa30c92f66ebfc78748"
-  integrity sha512-DYR9KW723sUbGK++DCmCmM95AbNXT4Q0tlCFMcYijFjayhuDqlGYR68OemlP8MJj0gjkwdeItIUfd0oLCgw+4A==
+  version "1.3.286"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.3.286.tgz#eeadbb9c2bc6f85fed9db423e091648c49e8bbcc"
+  integrity sha512-gPvrdAHxCdF2IxCeGEIJdXmor32Czae8+ZLOMsk/qmGAfIgtH7BfXiaBHZHVVHz6L2ouAdR377lzPuOE5wJFZg==
 
 elliptic@^6.0.0:
   version "6.5.1"
@@ -5867,10 +5874,10 @@ gatsby-telemetry@^1.1.33:
     stack-utils "1.0.2"
     uuid "3.3.3"
 
-gatsby-theme-chronoblog@^0.0.11:
-  version "0.0.11"
-  resolved "https://registry.yarnpkg.com/gatsby-theme-chronoblog/-/gatsby-theme-chronoblog-0.0.11.tgz#6136ef33cb1c4b7c34fd75729fe610ff9522d30b"
-  integrity sha512-eYPqTd1Dv5wQmN22V4OywUYQYEfUcvOfBFNE7qfQQmF3WdGPCR30Yxr5Fl1UW8Dui3L/i5gg3JXxD+EjgkDrcQ==
+gatsby-theme-chronoblog@^0.0.12:
+  version "0.0.12"
+  resolved "https://registry.yarnpkg.com/gatsby-theme-chronoblog/-/gatsby-theme-chronoblog-0.0.12.tgz#3a1286fb7ca0362fd30fc3f6e946603e7b192ef6"
+  integrity sha512-Wt3+lfOKihPIDTIy6v+qzRrF2/2FcpRPNqDbupX8/p2AA2WXE6DjltbjZp7Rz23JtmSOUkhPkXdHgydPJF4uUw==
   dependencies:
     "@babel/core" "^7.6.2"
     "@emotion/core" "^10.0.21"
@@ -5878,6 +5885,7 @@ gatsby-theme-chronoblog@^0.0.11:
     "@mdx-js/react" "^1.5.0"
     "@reach/router" "^1.2.1"
     "@theme-ui/preset-base" "^0.2.40"
+    "@theme-ui/prism" "^0.2.40"
     "@types/lodash" "^4.14.138"
     debug "^4.1.1"
     gatsby "^2.15.29"
@@ -5896,7 +5904,6 @@ gatsby-theme-chronoblog@^0.0.11:
     gatsby-source-filesystem "^2.1.22"
     gatsby-transformer-sharp "^2.2.14"
     lodash "^4.17.15"
-    mkdirp "^0.5.1"
     normalize-url "^4.3.0"
     react-helmet "^5.2.1"
     react-hover-observer "^2.1.1"
@@ -10291,6 +10298,11 @@ pretty-error@^2.1.1:
   dependencies:
     renderkid "^2.0.1"
     utila "~0.4"
+
+prism-react-renderer@^0.1.7:
+  version "0.1.7"
+  resolved "https://registry.yarnpkg.com/prism-react-renderer/-/prism-react-renderer-0.1.7.tgz#dc273d0cb6e4a498ba0775094e9a8b01a3ad2eaa"
+  integrity sha512-EhnM0sYfLK103ASK0ViSv0rta//ZGB0dBA9TiFyOvA+zOj5peLmGEG01sLEDwl9sMe+gSqncInafBe1VFTCMvA==
 
 private@^0.1.6:
   version "0.1.8"
