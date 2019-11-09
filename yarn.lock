@@ -4532,9 +4532,9 @@ es-abstract@^1.12.0, es-abstract@^1.13.0, es-abstract@^1.15.0, es-abstract@^1.5.
     string.prototype.trimright "^2.1.0"
 
 es-to-primitive@^1.2.0:
-  version "1.2.0"
-  resolved "https://registry.yarnpkg.com/es-to-primitive/-/es-to-primitive-1.2.0.tgz#edf72478033456e8dda8ef09e00ad9650707f377"
-  integrity sha512-qZryBOJjV//LaxLTV6UC//WewneB3LcXOL9NP++ozKVXsIIIpm/2c13UDiD9Jp2eThsecw9m3jPqDwTyobcdbg==
+  version "1.2.1"
+  resolved "https://registry.yarnpkg.com/es-to-primitive/-/es-to-primitive-1.2.1.tgz#e55cd4c9cdc188bcefb03b366c736323fc5c898a"
+  integrity sha512-QCOllgZJtaUo9miYBcLChTUaHNjJF3PYs1VidD7AwiEj1kYxKeQTctLAezAOH5ZKRH0g2IgPn6KwB4IT8iRpvA==
   dependencies:
     is-callable "^1.1.4"
     is-date-object "^1.0.1"
@@ -5893,18 +5893,16 @@ gatsby-telemetry@^1.1.35:
     stack-utils "1.0.2"
     uuid "3.3.3"
 
-gatsby-theme-chronoblog-core@^0.1.1:
-  version "0.1.1"
-  resolved "https://registry.yarnpkg.com/gatsby-theme-chronoblog-core/-/gatsby-theme-chronoblog-core-0.1.1.tgz#55b68972766e5b5dafb1aa314bb040d677242242"
-  integrity sha512-nE3XZ8zGfp+XRmdwi44hJDJbRWrLK+VOxel8qyBEUJX+RfBHFk2jcchKKVy/CKfNvn8MIDaw8+ugkvbaJ1TyLw==
+gatsby-theme-chronoblog-core@^0.1.2:
+  version "0.1.2"
+  resolved "https://registry.yarnpkg.com/gatsby-theme-chronoblog-core/-/gatsby-theme-chronoblog-core-0.1.2.tgz#00670f455fb18bc30c6b29041256bd7ef1da5291"
+  integrity sha512-tNXfwgsrju7+PsFWOZNf8MKh6ETp36hWlaQ0GreyTVZ0igZBybmkvF+a8S8dVLcVfop1e+JMIfJbWaDTokpTrg==
   dependencies:
     "@babel/core" "^7.6.4"
     "@emotion/core" "^10.0.22"
     "@mdx-js/mdx" "^1.5.1"
     "@mdx-js/react" "^1.5.1"
     "@reach/router" "^1.2.1"
-    "@theme-ui/preset-base" "^0.2.44"
-    "@theme-ui/prism" "^0.2.40"
     debug "^4.1.1"
     gatsby "^2.16.5"
     gatsby-background-image "^0.8.15"
@@ -5931,11 +5929,13 @@ gatsby-theme-chronoblog-core@^0.1.1:
     url-join "^4.0.1"
 
 gatsby-theme-chronoblog@^0.1.1:
-  version "0.1.1"
-  resolved "https://registry.yarnpkg.com/gatsby-theme-chronoblog/-/gatsby-theme-chronoblog-0.1.1.tgz#397b5a2110220718f6b62a38d8c6e35ecc0bc784"
-  integrity sha512-LsAYsBVWkKlDC7Q5/5H8HJoXPgdXxURX40t3kX6SyScgFQuktniAi0iSrOUfe+0Eqd2HYQk8LPiJmgcCQw4PVw==
+  version "0.1.2"
+  resolved "https://registry.yarnpkg.com/gatsby-theme-chronoblog/-/gatsby-theme-chronoblog-0.1.2.tgz#65fd46159cb05084f0acb7aab0f70fc9a7461a3c"
+  integrity sha512-yjFLzOxeatQsBYgmp3gEGcRodvCm/AvXgZiJ5p1FdHCM1LxY6HOyVVLBptY+3l4EJX2lfQvC7hZY6t+JBYDcVA==
   dependencies:
-    gatsby-theme-chronoblog-core "^0.1.1"
+    "@theme-ui/preset-base" "^0.2.44"
+    "@theme-ui/prism" "^0.2.40"
+    gatsby-theme-chronoblog-core "^0.1.2"
 
 gatsby-transformer-sharp@^2.3.2:
   version "2.3.2"
