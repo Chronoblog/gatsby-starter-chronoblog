@@ -5928,7 +5928,7 @@ gatsby-theme-chronoblog-core@^0.1.2:
     theme-ui "^0.2.44"
     url-join "^4.0.1"
 
-gatsby-theme-chronoblog@^0.1.1:
+gatsby-theme-chronoblog@^0.1.2:
   version "0.1.2"
   resolved "https://registry.yarnpkg.com/gatsby-theme-chronoblog/-/gatsby-theme-chronoblog-0.1.2.tgz#65fd46159cb05084f0acb7aab0f70fc9a7461a3c"
   integrity sha512-yjFLzOxeatQsBYgmp3gEGcRodvCm/AvXgZiJ5p1FdHCM1LxY6HOyVVLBptY+3l4EJX2lfQvC7hZY6t+JBYDcVA==
