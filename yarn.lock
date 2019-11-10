@@ -5898,10 +5898,10 @@ gatsby-telemetry@^1.1.35:
     stack-utils "1.0.2"
     uuid "3.3.3"
 
-gatsby-theme-chronoblog-core@^0.1.3:
-  version "0.1.3"
-  resolved "https://registry.yarnpkg.com/gatsby-theme-chronoblog-core/-/gatsby-theme-chronoblog-core-0.1.3.tgz#5576b7f64356d9ddfcbd4259b8f7d1a38bb9b802"
-  integrity sha512-eYE6V5hUpGf/TX8yd69VAZ7dbXfR5Ugz9xsM+xA7PCJ4lNMVJh53z4gk9QvRtqALJB+/dcJiXANEzoXh/Iazaw==
+gatsby-theme-chronoblog-core@^0.1.4:
+  version "0.1.4"
+  resolved "https://registry.yarnpkg.com/gatsby-theme-chronoblog-core/-/gatsby-theme-chronoblog-core-0.1.4.tgz#bda617c3cc8d3441f6f3110c06ee695272e11eb7"
+  integrity sha512-98HN88d3UWwWHpsYLEG6OIwHGw204w/N9gvQX4NLNe1x9od9+8w8D4sBUo9/LYp5juqniZTB4Do1dYGuGbVTSg==
   dependencies:
     "@babel/core" "^7.6.4"
     "@emotion/core" "^10.0.22"
@@ -5933,15 +5933,15 @@ gatsby-theme-chronoblog-core@^0.1.3:
     theme-ui "^0.2.44"
     url-join "^4.0.1"
 
-gatsby-theme-chronoblog@^0.1.3:
-  version "0.1.3"
-  resolved "https://registry.yarnpkg.com/gatsby-theme-chronoblog/-/gatsby-theme-chronoblog-0.1.3.tgz#07bd15c8373b1686693e7d95f4bb0697293f8d48"
-  integrity sha512-RIph7L2wPcveGvXKisKLPhxi2FQVoI1M70JN9M6Uf8386m9aFiNbHl9PDqyTo2dPHsLAm5s2hgQTu2WWFgmrGg==
+gatsby-theme-chronoblog@^0.1.4:
+  version "0.1.4"
+  resolved "https://registry.yarnpkg.com/gatsby-theme-chronoblog/-/gatsby-theme-chronoblog-0.1.4.tgz#9866a81447bdac064efe2cf97f9321b612a117b8"
+  integrity sha512-wz/IHyhQNIwiEEmQdv+oo6/whpOhb7O9d8pQ7V8pmUPD1QjX2eJeLLKoFKLibo0vlcjQH0ZtF3yk4mBj48ToKA==
   dependencies:
     "@mdx-js/react" "^1.5.1"
     "@theme-ui/preset-base" "^0.2.44"
     "@theme-ui/prism" "^0.2.40"
-    gatsby-theme-chronoblog-core "^0.1.3"
+    gatsby-theme-chronoblog-core "^0.1.4"
     react-headroom "^3.0.0"
     theme-ui "^0.2.44"
 
