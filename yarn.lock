@@ -8376,9 +8376,9 @@ mdast-util-compact@^1.0.0:
     unist-util-visit "^1.1.0"
 
 mdast-util-definitions@^1.2.0, mdast-util-definitions@^1.2.4:
-  version "1.2.4"
-  resolved "https://registry.yarnpkg.com/mdast-util-definitions/-/mdast-util-definitions-1.2.4.tgz#2b54ad4eecaff9d9fcb6bf6f9f6b68b232d77ca7"
-  integrity sha512-HfUArPog1j4Z78Xlzy9Q4aHLnrF/7fb57cooTHypyGoe2XFNbcx/kWZDoOz+ra8CkUzvg3+VHV434yqEd1DRmA==
+  version "1.2.5"
+  resolved "https://registry.yarnpkg.com/mdast-util-definitions/-/mdast-util-definitions-1.2.5.tgz#3fe622a4171c774ebd06f11e9f8af7ec53ea5c74"
+  integrity sha512-CJXEdoLfiISCDc2JB6QLb79pYfI6+GcIH+W2ox9nMc7od0Pz+bovcHsiq29xAQY6ayqe/9CsK2VzkSJdg1pFYA==
   dependencies:
     unist-util-visit "^1.0.0"
 
@@ -8410,9 +8410,9 @@ mdast-util-to-nlcst@^3.2.0:
     vfile-location "^2.0.0"
 
 mdast-util-to-string@^1.0.0, mdast-util-to-string@^1.0.5, mdast-util-to-string@^1.0.6:
-  version "1.0.6"
-  resolved "https://registry.yarnpkg.com/mdast-util-to-string/-/mdast-util-to-string-1.0.6.tgz#7d85421021343b33de1552fc71cb8e5b4ae7536d"
-  integrity sha512-868pp48gUPmZIhfKrLbaDneuzGiw3OTDjHc5M1kAepR2CWBJ+HpEsm252K4aXdiP5coVZaJPOqGtVU6Po8xnXg==
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/mdast-util-to-string/-/mdast-util-to-string-1.0.7.tgz#62d8e9c6b2113070d8b497c7dc35bf12796f06ee"
+  integrity sha512-P+gdtssCoHOX+eJUrrC30Sixqao86ZPlVjR5NEAoy0U79Pfxb1Y0Gntei0+GrnQD4T04X9xA8tcugp90cSmNow==
 
 mdast-util-toc@^3.1.0:
   version "3.1.0"
@@ -12499,9 +12499,9 @@ terser-webpack-plugin@1.4.1, terser-webpack-plugin@^1.4.1:
     worker-farm "^1.7.0"
 
 terser@^4.1.2:
-  version "4.3.10"
-  resolved "https://registry.yarnpkg.com/terser/-/terser-4.3.10.tgz#094154a3ac30859b1e077c4be6c71b7cf4c09fac"
-  integrity sha512-3xXfyqHzUr8WZ+UvvwUQ/uHNgDu3FsdTTAL5p9UAWxlnAsoIMlCM3BPuFSx5Kb4/Hr+/xnMf6rt1DhRpKYohhw==
+  version "4.3.11"
+  resolved "https://registry.yarnpkg.com/terser/-/terser-4.3.11.tgz#738be5f750464106a8d3c51d6bf67bc10bb5e0fe"
+  integrity sha512-gcQ1DgitjIOS/CRs9n55xhiDACHkmEirg+3GpozkLzIWgcbUvkAMdzlwbWe/hrwCVUq2Cxk5Tdd7wr4F2Eahsw==
   dependencies:
     commander "^2.20.0"
     source-map "~0.6.1"
