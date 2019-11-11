@@ -5885,7 +5885,7 @@ gatsby-telemetry@^1.1.36:
     stack-utils "1.0.2"
     uuid "3.3.3"
 
-gatsby-theme-chronoblog@^0.2.3:
+gatsby-theme-chronoblog@^0.2.4:
   version "0.2.4"
   resolved "https://registry.yarnpkg.com/gatsby-theme-chronoblog/-/gatsby-theme-chronoblog-0.2.4.tgz#49df54d83eb85e3fbd4cb00bec41ebdf3a62d144"
   integrity sha512-WtdIf7F0zSuf0XWc4Br820dPEywx3Q2ZqtqgIpFi/7TstC7XwH/sp6M9Z+9iz+rgOgnR80UIlztfrCK6ZxHjDA==
