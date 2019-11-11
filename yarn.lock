@@ -5885,10 +5885,10 @@ gatsby-telemetry@^1.1.36:
     stack-utils "1.0.2"
     uuid "3.3.3"
 
-gatsby-theme-chronoblog@^0.2.1:
-  version "0.2.1"
-  resolved "https://registry.yarnpkg.com/gatsby-theme-chronoblog/-/gatsby-theme-chronoblog-0.2.1.tgz#90f89a3546aaddc96b834f517512f87bde012488"
-  integrity sha512-IwyKFigyRsQ6q2D/ajSpnMBbzYZGzzjDHMU1aVRk4hiUF4eicBP6YmcEMNh2MBDOG8mk5BHaJm53hTG+Q/J2+A==
+gatsby-theme-chronoblog@^0.2.3:
+  version "0.2.4"
+  resolved "https://registry.yarnpkg.com/gatsby-theme-chronoblog/-/gatsby-theme-chronoblog-0.2.4.tgz#49df54d83eb85e3fbd4cb00bec41ebdf3a62d144"
+  integrity sha512-WtdIf7F0zSuf0XWc4Br820dPEywx3Q2ZqtqgIpFi/7TstC7XwH/sp6M9Z+9iz+rgOgnR80UIlztfrCK6ZxHjDA==
   dependencies:
     "@babel/core" "^7.6.4"
     "@emotion/core" "^10.0.22"
@@ -5898,7 +5898,7 @@ gatsby-theme-chronoblog@^0.2.1:
     "@theme-ui/preset-base" "^0.2.44"
     "@theme-ui/prism" "^0.2.40"
     debug "^4.1.1"
-    gatsby "^2.16.5"
+    gatsby "^2.17.11"
     gatsby-background-image "^0.8.15"
     gatsby-image "^2.2.29"
     gatsby-plugin-emotion "^4.1.13"
@@ -5936,7 +5936,7 @@ gatsby-transformer-sharp@^2.3.2:
     semver "^5.7.1"
     sharp "^0.23.2"
 
-gatsby@^2.16.5:
+gatsby@^2.17.11:
   version "2.17.11"
   resolved "https://registry.yarnpkg.com/gatsby/-/gatsby-2.17.11.tgz#788cd93aec2bf6beaf7bf8dd1182a8f779c004e8"
   integrity sha512-dAWYZiDfSGoGDmdeVD7qnCYRE06nocnrDWxxll7IeGc8ZSpS2FSXFtbnumzp8tS56vv2KdVl7hDof+nrPAMI5w==
