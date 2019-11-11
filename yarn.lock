@@ -5885,16 +5885,18 @@ gatsby-telemetry@^1.1.36:
     stack-utils "1.0.2"
     uuid "3.3.3"
 
-gatsby-theme-chronoblog-core@^0.1.4:
-  version "0.1.4"
-  resolved "https://registry.yarnpkg.com/gatsby-theme-chronoblog-core/-/gatsby-theme-chronoblog-core-0.1.4.tgz#bda617c3cc8d3441f6f3110c06ee695272e11eb7"
-  integrity sha512-98HN88d3UWwWHpsYLEG6OIwHGw204w/N9gvQX4NLNe1x9od9+8w8D4sBUo9/LYp5juqniZTB4Do1dYGuGbVTSg==
+gatsby-theme-chronoblog@^0.2.1:
+  version "0.2.1"
+  resolved "https://registry.yarnpkg.com/gatsby-theme-chronoblog/-/gatsby-theme-chronoblog-0.2.1.tgz#90f89a3546aaddc96b834f517512f87bde012488"
+  integrity sha512-IwyKFigyRsQ6q2D/ajSpnMBbzYZGzzjDHMU1aVRk4hiUF4eicBP6YmcEMNh2MBDOG8mk5BHaJm53hTG+Q/J2+A==
   dependencies:
     "@babel/core" "^7.6.4"
     "@emotion/core" "^10.0.22"
     "@mdx-js/mdx" "^1.5.1"
     "@mdx-js/react" "^1.5.1"
     "@reach/router" "^1.2.1"
+    "@theme-ui/preset-base" "^0.2.44"
+    "@theme-ui/prism" "^0.2.40"
     debug "^4.1.1"
     gatsby "^2.16.5"
     gatsby-background-image "^0.8.15"
@@ -5913,24 +5915,13 @@ gatsby-theme-chronoblog-core@^0.1.4:
     gatsby-transformer-sharp "^2.3.2"
     lodash "^4.17.15"
     normalize-url "^4.5.0"
+    react-headroom "^3.0.0"
     react-helmet "^5.2.1"
     react-hover-observer "^2.1.1"
     remark-slug "^5.1.2"
     remark-unwrap-images "^0.2.0"
     theme-ui "^0.2.44"
     url-join "^4.0.1"
-
-gatsby-theme-chronoblog@^0.1.4:
-  version "0.1.4"
-  resolved "https://registry.yarnpkg.com/gatsby-theme-chronoblog/-/gatsby-theme-chronoblog-0.1.4.tgz#9866a81447bdac064efe2cf97f9321b612a117b8"
-  integrity sha512-wz/IHyhQNIwiEEmQdv+oo6/whpOhb7O9d8pQ7V8pmUPD1QjX2eJeLLKoFKLibo0vlcjQH0ZtF3yk4mBj48ToKA==
-  dependencies:
-    "@mdx-js/react" "^1.5.1"
-    "@theme-ui/preset-base" "^0.2.44"
-    "@theme-ui/prism" "^0.2.40"
-    gatsby-theme-chronoblog-core "^0.1.4"
-    react-headroom "^3.0.0"
-    theme-ui "^0.2.44"
 
 gatsby-transformer-sharp@^2.3.2:
   version "2.3.3"
