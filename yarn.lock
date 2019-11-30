@@ -4816,9 +4816,9 @@ eslint-visitor-keys@^1.0.0, eslint-visitor-keys@^1.1.0:
   integrity sha512-8y9YjtM1JBJU/A9Kc+SbaOV4y29sSWckBwMHa+FGtVj5gN/sbnKDf6xJUl+8g7FAij9LVaP8C24DUiH/f/2Z9A==
 
 eslint@^6.6.0, eslint@^6.7.1:
-  version "6.7.1"
-  resolved "https://registry.yarnpkg.com/eslint/-/eslint-6.7.1.tgz#269ccccec3ef60ab32358a44d147ac209154b919"
-  integrity sha512-UWzBS79pNcsDSxgxbdjkmzn/B6BhsXMfUaOHnNwyE8nD+Q6pyT96ow2MccVayUTV4yMid4qLhMiQaywctRkBLA==
+  version "6.7.2"
+  resolved "https://registry.yarnpkg.com/eslint/-/eslint-6.7.2.tgz#c17707ca4ad7b2d8af986a33feba71e18a9fecd1"
+  integrity sha512-qMlSWJaCSxDFr8fBPvJM9kJwbazrhNcBU3+DszDW1OlEwKBBRWsJc7NJFelvwQpanHCR14cOLD41x8Eqvo3Nng==
   dependencies:
     "@babel/code-frame" "^7.0.0"
     ajv "^6.10.0"
@@ -5908,10 +5908,10 @@ gatsby-telemetry@^1.1.40:
     stack-utils "1.0.2"
     uuid "3.3.3"
 
-gatsby-theme-chronoblog@^0.4.1:
-  version "0.4.1"
-  resolved "https://registry.yarnpkg.com/gatsby-theme-chronoblog/-/gatsby-theme-chronoblog-0.4.1.tgz#4162911c2abd8eeead24835f22dd5c70017c1a0b"
-  integrity sha512-2UHIu3PMYtjcsFC7QubxhDSnAZ1UCjswSwVWTh9aymJ4tx2pGpq8/rcpnz+QeQuYZWsoBWAD//Syu19DtdpkXg==
+gatsby-theme-chronoblog@^0.5.0:
+  version "0.5.0"
+  resolved "https://registry.yarnpkg.com/gatsby-theme-chronoblog/-/gatsby-theme-chronoblog-0.5.0.tgz#c7923852ae772983ef91e3ce0cf80354995e436c"
+  integrity sha512-prIJVkeoYZHgizUtFlI/33SJZSOIz+NHs8kFXvUx/jptOtCI1K4sKRutqHmSqiLRrsVRefBhY1Gy+TA3WVSvXA==
   dependencies:
     "@babel/core" "^7.6.4"
     "@emotion/core" "^10.0.22"
