@@ -1,7 +1,7 @@
 ---
 title: Full Blog Post Example
 cover: ./image.jpg
-date: 2019-11-05
+date: 2019-12-01
 description: All the usual blog post.
 tags: ['post']
 ---
@@ -138,3 +138,5 @@ someFun('text');
 ```jsx
 <Thing fontSize={[16, 20, 24]} width={[1, 1 / 2]} />
 ```
+
+What distinguishes Markdown from many other lightweight markup syntaxes, which are often easier to write, is its readability.
