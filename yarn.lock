@@ -2330,9 +2330,9 @@ babel-plugin-extract-import-names@^1.5.1:
     "@babel/helper-plugin-utils" "7.0.0"
 
 babel-plugin-macros@^2.0.0, babel-plugin-macros@^2.7.1:
-  version "2.7.1"
-  resolved "https://registry.yarnpkg.com/babel-plugin-macros/-/babel-plugin-macros-2.7.1.tgz#ee294383c1a38f9d6535be3d89734824cb3ed415"
-  integrity sha512-HNM284amlKSQ6FddI4jLXD+XTqF0cTYOe5uemOIZxHJHnamC+OhFQ57rMF9sgnYhkJQptVl9U1SKVZsV9/GLQQ==
+  version "2.8.0"
+  resolved "https://registry.yarnpkg.com/babel-plugin-macros/-/babel-plugin-macros-2.8.0.tgz#0f958a7cc6556b1e65344465d99111a1e5e10138"
+  integrity sha512-SEP5kJpfGYqYKpBrj5XU3ahw5p5GOHJ0U5ssOSQ/WBVdwkD2Dzlce95exQTs3jOVWPPKLBN2rlEWkCK7dSmLvg==
   dependencies:
     "@babel/runtime" "^7.7.2"
     cosmiconfig "^6.0.0"
@@ -4923,9 +4923,9 @@ eval@^0.1.0, eval@^0.1.4:
     require-like ">= 0.1.1"
 
 event-source-polyfill@^1.0.9:
-  version "1.0.10"
-  resolved "https://registry.yarnpkg.com/event-source-polyfill/-/event-source-polyfill-1.0.10.tgz#49df636ed7e911b6e2b3d45806b6102f49b7157f"
-  integrity sha512-eEVFqleABdIL46cDT11Qrp5Nf+qVJbbwNVtZMYJJvCkaYeUFt8s1N/d5QtpbXYes/VCI+puacSFmrYeYzMYZeA==
+  version "1.0.11"
+  resolved "https://registry.yarnpkg.com/event-source-polyfill/-/event-source-polyfill-1.0.11.tgz#37b5d37161b8980bbbacb29081b7c8e501909e3a"
+  integrity sha512-fbo96OutP0Bb+gIYTTy8LGhNWySdetsFElCn/vhOzQL3cXWsS70TP/aRUe32U7F+PuOZH/tvb40tZgoJV8/Ilw==
 
 eventemitter3@^3.1.0:
   version "3.1.2"
