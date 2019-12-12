@@ -5911,9 +5911,9 @@ gatsby-react-router-scroll@^2.1.19:
     warning "^3.0.0"
 
 gatsby-remark-images@^3.1.35:
-  version "3.1.37"
-  resolved "https://registry.yarnpkg.com/gatsby-remark-images/-/gatsby-remark-images-3.1.37.tgz#e270630e208470326faf51e9cec34ffd3cded09c"
-  integrity sha512-6eQ82CxzOFyTzI3CaxzTI6j16Xbm28CNJYu/Wdbl8QZdAnznJnLIAdlE074VYyo60QhKyQwu8a3wV5bhrHSfQQ==
+  version "3.1.38"
+  resolved "https://registry.yarnpkg.com/gatsby-remark-images/-/gatsby-remark-images-3.1.38.tgz#9e66ba43b3a0211f3a08167badc33bd7d0653bb3"
+  integrity sha512-eMEq3anD/cCgCh2ZgcWhR/ejvd25R1tki2bS3jLEl0ceafJbOGvWD1hpSDL/N9KtpsX2zyVOTZn56tg5oRhTrQ==
   dependencies:
     "@babel/runtime" "^7.7.6"
     chalk "^2.4.2"
@@ -5982,10 +5982,10 @@ gatsby-telemetry@^1.1.44:
     stack-utils "1.0.2"
     uuid "3.3.3"
 
-gatsby-theme-chronoblog@^0.10.2:
-  version "0.10.2"
-  resolved "https://registry.yarnpkg.com/gatsby-theme-chronoblog/-/gatsby-theme-chronoblog-0.10.2.tgz#4848ec0e76e3818ae67407b9e7ca268509451d9a"
-  integrity sha512-DPK2KIonNtxcNxSe5jvv0C7G7EkA1YH6Vp4jDf1l4CSmq7sWL2h1rmxy8/vB4iqzpmvWTSLhBQa/ADgunEfDxA==
+gatsby-theme-chronoblog@^0.11.0:
+  version "0.11.0"
+  resolved "https://registry.yarnpkg.com/gatsby-theme-chronoblog/-/gatsby-theme-chronoblog-0.11.0.tgz#b661fe9a07c5e4068fb2e620ef7316fae01c8627"
+  integrity sha512-Wfq0G5ztNv8cEFe5W3izsDYj2hTevbKJJwu3b953gbbN/5tJKGOV/KoQfNAQTxlqtABnVGM3I11v+hszlShQwA==
   dependencies:
     "@babel/core" "^7.6.4"
     "@emotion/core" "^10.0.22"
